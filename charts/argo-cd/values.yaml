@@ -69,7 +69,7 @@ ingress:
 # Will still be able to deploy to external clusters with inputted credentials.
 
 clusterAdminAccess:
-  enabled: false
+  enabled: true
 
 config:
   helmRepositories:
